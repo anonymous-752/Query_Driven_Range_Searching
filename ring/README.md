@@ -8,6 +8,6 @@ File `experiment.cpp` contains the code for constructing the trees and finding t
 
 The queries used are located in zip file `queries.zip`.
 
-The testing of the trees (measuring query times) is in 'testq.cpp' (Subsection 5.4).
+The testing of the trees (measuring query times) is in `testq.cpp` (Subsection 5.4).
 
 To run `experiment.cpp` and `testq.cpp`, update 'file' in the `Makefile` to match the desired file. Then, run `make` that generates the executable. The executables take a command line argument, the size of the query sample.
